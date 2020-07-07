@@ -1,2 +1,2 @@
 # LearnPython-FreeCodeCamp
- Learn Python witn FreeCodeCamp.org
+ Learn Python with FreeCodeCamp.org
