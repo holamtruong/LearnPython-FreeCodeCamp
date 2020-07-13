@@ -1,0 +1,9 @@
+No - captain
+Lu - Vice captain
+Su - Soldier
+Na - Soldier
+Dom - Soldier
+
+Dom - Soldier
+Dom - Soldier
+Dom - Soldier
